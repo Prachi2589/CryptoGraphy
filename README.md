@@ -21,26 +21,13 @@ Welcome to CryptoGraphy, a web application built with React.js and React Apex Ch
 1. **Clone the repository:**:
    git clone https://github.com/Prachi2589/CryptoGraphy.git
 
-2. **Navigate to the project directory:** : cd crypto-dashboard
+2. **Navigate to the project directory:** : cd cryptGraphy
 
 5. **Customizable Dashboard:** Allows users to customize their dashboard by selecting specific cryptocurrencies or market metrics to track.
 6. **Search Functionality:** Enables users to search for specific cryptocurrencies by name or symbol.
 
-## Technologies Used
 
-- **React.js:** A JavaScript library for building user interfaces, providing a robust and efficient framework for developing interactive web applications.
-- **React Apex Charts:** A React wrapper for ApexCharts, allowing the integration of dynamic and responsive charts into React applications.
 
-## Getting Started
-
-1. **Clone the repository:**
-git clone https://github.com/your-username/crypto-dashboard.git
-2. **Navigate to the project directory:**
-cd crypto-dashboard
-4. **Install dependencies:**
-npm install
-5. **Run the application:**
-npm start
 
 
 
